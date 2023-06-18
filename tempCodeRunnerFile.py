@@ -1,0 +1,1 @@
+tri.simplices[0]
